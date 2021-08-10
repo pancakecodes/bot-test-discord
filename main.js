@@ -10,4 +10,4 @@ client.once('ready',  () => {
 
 
 
-client.login('ODc0Njc0ODczODgzMDUwMDU0.YRKadA.1HLOH0ibaOTlhgfCoOaJJnzYPJM');
+client.login('token_bot_discord');
